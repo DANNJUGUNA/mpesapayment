@@ -1,0 +1,2 @@
+class MpaysController < ApplicationController
+end
