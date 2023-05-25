@@ -1,2 +1,0 @@
-class MpaysController < ApplicationController
-end

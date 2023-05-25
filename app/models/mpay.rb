@@ -1,2 +1,0 @@
-class Mpay < ApplicationRecord
-end
