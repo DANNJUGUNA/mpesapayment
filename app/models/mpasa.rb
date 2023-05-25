@@ -1,0 +1,2 @@
+class Mpasa < ApplicationRecord
+end
